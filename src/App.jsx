@@ -3,8 +3,6 @@ import NavBar from "./components/NavBar";
 import Loading from "./components/Loading";
 
 const App = () => {
-  const [isLoading, setIsLoading] = useState(true);
-
   // useEffect(() => {
   //   setTimeout(() => {
   //     setIsLoading(false);
@@ -12,7 +10,9 @@ const App = () => {
   // }, []);
 
   return (
-    <div className=" relative ">{isLoading ? <Loading /> : <NavBar />}</div>
+    <>
+      <NavBar />
+    </>
   );
 };
 
