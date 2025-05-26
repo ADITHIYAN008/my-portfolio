@@ -100,7 +100,7 @@ const NavBar = () => {
                 </a>
                 <a
                   className="flex gap-1 items-center px-3 py-2 bg-transparent rounded-full transition-all duration-150 ease-in-out hover:bg-gray-200/5"
-                  href="https://drive.google.com/file/d/15Fdq3z5MK9ZYT-vMM8p8uER4AEYqM9_d/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/12bIoFAgd2BJsvw71FJj05FDcJDwwWsSj/view?usp=sharing"
                   target="_blank"
                 >
                   Resume <GoArrowUpRight size={25} />
