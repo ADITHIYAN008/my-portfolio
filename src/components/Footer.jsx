@@ -33,7 +33,7 @@ const Footer = () => {
               </a>
               <a
                 className="flex gap-1 items-center text-xl font-medium"
-                href="https://drive.google.com/file/d/1glSWjnrV-IyQ88KOpVmDkepkmAOQBzbp/view?usp=share_link"
+                href="https://drive.google.com/file/d/12bIoFAgd2BJsvw71FJj05FDcJDwwWsSj/view?usp=sharing"
                 target="_blank"
               >
                 Resume <GoArrowUpRight size={25} />
